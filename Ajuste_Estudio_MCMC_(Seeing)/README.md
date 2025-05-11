@@ -1,0 +1,1 @@
+Esta carpeta contiene los códigos de ajuste y de estudio mediante MCMC para los casos de la media de los datos de fwhm de las estrellas y un análisis considerando los datos de las estrellas por separado, añadiendo ejemplos.
