@@ -1,0 +1,1 @@
+Esta carpeta contiene un estudio MCMC de los valores de referencia para el "seeing" y "dome-seeing" para una longitud de onda concreta, además de un código que permite visualizar mediante un "scatter plot" la relación entre los diferentes parámetros, también se añaden ejemplos.
