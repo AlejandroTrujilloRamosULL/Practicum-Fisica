@@ -6,8 +6,7 @@ Created on Thu Apr 24 11:27:11 2025
 """
 
 # Implementamos código para obtener resultados sobre la constricción de los 
-# parámetros y sus valores óptimos mediante Markov Chain Monte Carlo, este 
-# código es para las 4 estrellas que se consideran de HD90177a.
+# parámetros y sus valores óptimos mediante Markov Chain Monte Carlo.
 # Este código se centra principalmente en obtener una idea de la constricción
 # de los valores de seeing y dome-seeing de referencia para medidas y 
 # observaciones propias, sin tener que depender de valores de referencia 
